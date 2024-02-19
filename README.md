@@ -1,0 +1,1 @@
+This is a replication of a netflix webpage using HTML, CSS. I have used multiple images to accurately replicate the functionalities of the page. This is a visually appealing and easy to navigate page, which user can use to see the pricing plans of the entertainment platform.
